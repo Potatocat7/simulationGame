@@ -1,0 +1,21 @@
+sceneSetups:
+- path: Assets/Scenes/makemap.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/cameraAngle.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/moveCameraPoint.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/textureAngle.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/animationTexture.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
